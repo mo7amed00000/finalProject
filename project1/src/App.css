@@ -1,0 +1,13 @@
+.inner:hover button {
+  top: 0px;
+}
+
+.inner button {
+  transition: 0.5s;
+}
+/* 
+.grid img {
+  background-position: center;
+  background-size: cover center;
+  width:auto;
+} */
